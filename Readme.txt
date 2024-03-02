@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Obrigado por ler!
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Site feito com muita dedicação com os conhecimentos adquiridos até o momento, foi um desafio.
+
+Data: 20240302
+nome: Daniel Andrade
