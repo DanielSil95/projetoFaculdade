@@ -1,0 +1,84 @@
+.bg-black {
+    background-color: black;
+}
+
+.container-fluid {
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container-fluid section {
+    margin-bottom: 40px;
+}
+
+.container-fluid h3 {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.container-fluid p {
+    font-size: 25px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.header-section {
+    background-color: rgb(49, 1, 49);
+    color: white;
+}
+
+
+.blog-text {
+    text-align: justify;
+}
+
+.container-max-width {
+    max-width: 2000px;
+    margin:30 auto;
+}
+
+.apresentacao-background,
+.novidade-background,
+.buraconegro-background,
+.pulsar-background,
+.magnetar-background {
+    padding: 50px;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    color: white;
+}
+
+.apresentacao-background {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://img.freepik.com/fotos-gratis/design-noite-estrelado_1048-1933.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.novidade-background {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://www.canalhistory.com.br/sites/history.uol.com.br/files/styles/facebook_card_1200x630/public/images/2023/12/01/Tempestade%20solar%20-%20Terra%20-%20Sol%20-%20History%20Channel%20Brasil.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.buraconegro-background {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://miro.medium.com/v2/resize:fit:1400/1*1kbpMdtadqSmFrvJJFFDrg@2x.jpeg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.pulsar-background {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://cdn1.sputniknewsbr.com.br/img/07e6/03/16/21923329_0:325:1482:1159_1920x0_80_0_0_2f9af25e4b3332045e86f177edb5c0b1.png') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.magnetar-background {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://sbfisica.org.br/v1/sbf/wp-content/uploads/2023/12/destaque-20231207.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+footer {
+    max-width: 5000px; 
+    max-height: 5px;
+    margin: 0 auto; 
+}
+
