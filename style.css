@@ -29,14 +29,13 @@
     color: white;
 }
 
-
 .blog-text {
     text-align: justify;
 }
 
 .container-max-width {
     max-width: 2000px;
-    margin:30 auto;
+    margin: 30px auto;
 }
 
 .apresentacao-background,
@@ -50,6 +49,19 @@
     position: relative;
     color: white;
 }
+
+.apresentacao-background {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('sua-url-da-imagem') no-repeat center center fixed;
+}
+
+/* Repetir padrão para outros backgrounds */
+
+footer {
+    height: 50px;
+    max-width: 5000px;
+    margin: 0 auto;
+}
+
 
 .apresentacao-background {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://img.freepik.com/fotos-gratis/design-noite-estrelado_1048-1933.jpg') no-repeat center center fixed;
